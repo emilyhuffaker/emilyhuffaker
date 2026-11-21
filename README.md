@@ -1,8 +1,8 @@
-<img src="assets/header.svg" alt="Emily Huffaker: data science in human behavior at UW–Madison" width="100%">
+<img src="assets/header_.svg" alt="Emily Huffaker: data science in human behavior at UW–Madison" width="100%">
 
 I'm an M.S. student in Data Science in Human Behavior at UW–Madison. I like questions where people, data, and models meet: machine learning, NLP, statistical modeling, and human-centered data science.
 
-<!-- EDIT: add one sentence about what you're working on or looking for right now (internships, collaborations, etc.) -->
+<Graduating with my MS in Data Science in Human Behavior December 2026 and beginning an Industrial Engineering PhD January 2027 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 [![Email](https://img.shields.io/badge/Email-12302f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
